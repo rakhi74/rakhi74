@@ -1,12 +1,40 @@
-- 👋 Hi, I’m rakhi
-- 👀 I’m interested in web designing 
-- 🌱 I’m currently learning computer science enginering 
-- 💞️ I’m looking to collaborate on website design 
-  
-- 😄 Pronouns: she/ HER 
-- ⚡ Fun fact: im social butterfly 
+# Hi 👋 I'm Rakhi Kumari
 
-<!---
-rakhi74/rakhi74 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Full-Stack Web Developer (MERN Stack)
+
+🎓 B.Tech CSE Student | Dr. Akhilesh Das Gupta Institute of Professional Studies
+
+🚀 Interested in Web Development, REST APIs and Scalable Applications
+
+🌱 Currently improving skills in MERN Stack, Data Structures and Problem Solving
+
+## 🛠 Tech Stack
+
+### Languages
+Java • JavaScript • C++ • Python • SQL
+
+### Frontend
+HTML5 • CSS3 • React.js • Tailwind CSS • Bootstrap
+
+### Backend
+Node.js • Express.js • REST APIs
+
+### Database
+MongoDB • MySQL
+
+### Tools
+Git • GitHub • VS Code
+
+## 🚀 Projects
+
+📚 Library Management System
+
+💬 Real-Time Chat Application
+
+⏱ Productivity Tracker Chrome Extension
+
+✏ Real-Time Collaborative Text Editor
+
+🔌 API Integration Project
+
+📫 Email: itzrakhi74@gmail.com
